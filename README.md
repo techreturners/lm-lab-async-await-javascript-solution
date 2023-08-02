@@ -1,6 +1,6 @@
-# Learner Materials: Async and Await
+# Learner Materials: Async and Await - Solution Repo 
 
-In this repository you will find two brief exercises to practice using `async`/`await` and `try`/`catch`.
+In this repository you will find a solution to the async await repo
 
 ## Instructions
 
