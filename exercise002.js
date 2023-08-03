@@ -13,8 +13,6 @@
 
 import fetch from "node-fetch";
 
-const jsonTypicode = "https://jsonplaceholder.typicode.com/todos/1";
-
 const advice = "https://api.adviceslip.com/advice"
 
 const fetchData = async (apiEndPoint) => {
