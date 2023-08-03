@@ -25,6 +25,5 @@ const fetchData = async (apiEndPoint) => {
     }
 };
 
-// fetchData(jsonTypicode);
 fetchData(advice)
 
